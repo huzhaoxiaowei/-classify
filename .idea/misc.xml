@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.8 (sftp://root@connect.nmb2.seetacloud.com:40402/root/miniconda3/bin/python3.10)" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="F:\Anaconda\envs\DL" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="F:\Anaconda\envs\DL" project-jdk-type="Python SDK" />
 </project>
