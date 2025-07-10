@@ -6,4 +6,4 @@ with tf.device('/GPU:0'):
     b = tf.random.normal([5000, 5000])
     c = tf.matmul(a, b)
     print("GPU 测试完成:", c.shape)
-#ggg
+#gg
